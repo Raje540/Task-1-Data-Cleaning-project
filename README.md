@@ -1,0 +1,1 @@
+A beginner-friendly data cleaning project using the Titanic dataset. It covers handling missing values, encoding categorical data, normalizing features, and detecting outliers with Pandas, NumPy, and Seaborn. Prepares raw data for ML models by cleaning, visualizing, and saving a processed dataset.
